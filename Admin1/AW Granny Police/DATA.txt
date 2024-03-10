@@ -29,7 +29,7 @@ IsRewardIDBeginDefaultRewardedVideoIsRewardIDLast
 imageURLBeginimageURLLast
 gameURLBegingameURLLast
 
-rateUsLinkBeginhttps://play.google.com/work/apps/details?id=com.RuberJR.TrapAdventure3rateUsLinkLast
+rateUsLinkBeginrateUsLinkLast
 moreGamesLinkBeginmoreGamesLinkLast
 termsOfServiceLinkBegintermsOfServiceLinkLast
 
