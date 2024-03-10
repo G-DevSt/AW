@@ -14,7 +14,7 @@ FANbanBeginFANbanLast    IMG_16_9_LINK#
 FANinterBeginFANinterLast IMG_16_9_LINK#   
 FANrewBeginFANrewLast IMG_16_9_LINK#  
 
-UnityGameIDBegin5560245UnityGameIDLast
+UnityGameIDBegin5572299UnityGameIDLast
  
 MAXsdkKeybanBeginMAXsdkKeybanLast      
 MAXbanBeginMAXbanLast      
