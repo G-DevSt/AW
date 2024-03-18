@@ -29,6 +29,8 @@ IsRewardIDBeginDefaultRewardedVideoIsRewardIDLast
 imageURLBeginimageURLLast
 gameURLBegingameURLLast
 
+promotionDataBegin{"gameName":"","storeLink":"https://play.google.com/store/apps/details?id=com.pt.car.simulator.parking.driving.real.cargame&gl=us&referrer=utm_source%3Dasospy.com%26utm_medium%3Dapi","imageUrls":["https://play-lh.googleusercontent.com/iOAYC7_dIBIvqzbYJc6tlNySLeHlQbjH-3hjVB7QPVPBYEIXU51Ie8eAcn6UIsa5X3nQ=w1920","https://play-lh.googleusercontent.com/6VOVGOzs7PyPWsbaXCKZ5kZBvwD-Mp1_lAeIpfPDP6sWpxjeZt84c_skQ-EG2qMN8ks=w1920"]}promotionDataLast
+
 rateUsLinkBeginrateUsLinkLast
 moreGamesLinkBeginmoreGamesLinkLast
 termsOfServiceLinkBegintermsOfServiceLinkLast
