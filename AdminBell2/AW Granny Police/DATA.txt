@@ -33,7 +33,6 @@ rateUsLinkBeginrateUsLinkLast
 moreGamesLinkBeginmoreGamesLinkLast
 termsOfServiceLinkBegintermsOfServiceLinkLast
 
-
 isVendingBeginNOisVendingLast			YES to enable    Other or Empty to disable
  
 
