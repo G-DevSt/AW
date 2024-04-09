@@ -5,10 +5,10 @@ activeAdsBeginYESactiveAdsLast		YES to enable    Other or Empty to disable
 showAdsCountBegin2showAdsCountLast
 orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/AW/main/AdminBell2/AW%20Granny%20Police/OrderFile.txtorderMediationLinkLast
 
-ADMOBIDBeginca-app-pub-3940256099942544~3347511713ADMOBIDLast        
-ADMOBbanBeginca-app-pub-3940256099942544/6300978111ADMOBbanLast		
-ADMOBinterBeginca-app-pub-3940256099942544/1033173712ADMOBinterLast		
-ADMOBrewBeginca-app-pub-3940256099942544/5224354917ADMOBrewLast		
+ADMOBIDBeginca-app-pub-4578604678644292~2678154054ADMOBIDLast        
+ADMOBbanBeginca-app-pub-4578604678644292/7594588759ADMOBbanLast		
+ADMOBinterBeginca-app-pub-4578604678644292/1078131922ADMOBinterLast		
+ADMOBrewBeginca-app-pub-4578604678644292/6138886919ADMOBrewLast		
 
 FANbanBeginFANbanLast    IMG_16_9_LINK#    
 FANinterBeginFANinterLast IMG_16_9_LINK#   
