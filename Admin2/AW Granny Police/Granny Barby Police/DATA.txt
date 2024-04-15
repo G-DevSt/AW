@@ -1,9 +1,9 @@
-Test MyPlugin :
+Test MyPlugin : https://play.google.com/store/apps/details?id=com.obunga.horror.backrooms.game.horror
 
 activeAdsBeginYESactiveAdsLast		YES to enable    Other or Empty to disable
 
 showAdsCountBegin2showAdsCountLast
-orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/C0/main/SM%20EvilGranny%20C0/OrderFile.txtorderMediationLinkLast
+orderMediationLinkBeginhttps://raw.githubusercontent.com/G-DevSt/AW/main/Admin2/AW%20Granny%20Police/Granny%20Barby%20Police/OrderFile.txtorderMediationLinkLast
 
 ADMOBIDBeginADMOBIDLast        
 ADMOBbanBeginADMOBbanLast		
@@ -14,7 +14,7 @@ FANbanBeginFANbanLast    IMG_16_9_LINK#
 FANinterBeginFANinterLast IMG_16_9_LINK#   
 FANrewBeginFANrewLast IMG_16_9_LINK#  
 
-UnityGameIDBegin5560245UnityGameIDLast
+UnityGameIDBegin5598236UnityGameIDLast
  
 MAXsdkKeybanBeginMAXsdkKeybanLast      
 MAXbanBeginMAXbanLast      
